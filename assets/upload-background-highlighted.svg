@@ -1,0 +1,28 @@
+<svg
+        width="1080"
+        height="1080"
+        viewBox="0 0 1080 560"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg">
+<circle stroke="#02c873"
+opacity="0.6"
+cx="540"
+cy="280"
+r="518"
+stroke-miterlimit="2"
+stroke-linecap="round"
+stroke-dasharray="8 8"
+/>
+<circle stroke="#02c873"
+opacity="0.8"
+cx="540"
+cy="280"
+r="402"
+stroke-miterlimit="2"
+stroke-linecap="round"
+stroke-dasharray="5 8"
+/>
+<circle stroke="#02c873" cx="540.5" cy="279.5" r="263.5" stroke-miterlimit="2" stroke-linecap="round" stroke-dasharray="5 8" />
+<circle stroke="#02c873" cx="540" cy="280" r="206" stroke-miterlimit="2" stroke-linecap="round" stroke-dasharray="5 8" />
+<circle stroke="#02c873" cx="541" cy="280" r="90" stroke-miterlimit="2" stroke-linecap="round" stroke-dasharray="5 8" />
+        </svg>
